@@ -1,0 +1,10 @@
+Après le bout de code donné, j'ai vu qu'il fallait rajouter deux conditions 
+(la if/else bon_nombre/mauvais_nombre et la if/else plus_grand/plus_petit)
+Problèmes rencontrés:
+-Je ne savais pas faire des if/else en shell scripting
+-Je ne savais pas comment faire des comparaison de 2 nombres en shell scripting
+-bug dans le code
+Solutions (dans l'ordre):
+-Tutoriel YouTube (Je ne m'occupe pas de l'exercice 4, mais je l'ai vu après)
+-Tutoriel YouTube
+-Temps, détermination (et j'ai ajouté des espaces là où il en manquait)
